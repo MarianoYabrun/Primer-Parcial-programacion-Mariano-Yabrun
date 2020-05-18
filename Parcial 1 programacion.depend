@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589804395 source:c:\users\maria\onedrive\escritorio\parcial 1 programacion\p1.c
+
+1589804289 c:\users\maria\onedrive\escritorio\parcial 1 programacion\p1.h
+
+1589806426 source:c:\users\maria\onedrive\escritorio\parcial 1 programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
